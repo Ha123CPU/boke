@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Posts on 我的 Hugo 博客</title>
-		<link>https://Ha123CPU.github.io/boke/posts/</link>
-		<description>Recent content in Posts on 我的 Hugo 博客</description>
+		<title>GitHub Pages on 我的 Hugo 博客</title>
+		<link>https://Ha123CPU.github.io/boke/tags/github-pages/</link>
+		<description>Recent content in GitHub Pages on 我的 Hugo 博客</description>
 		<generator>Hugo</generator>
 		<language>zh-cn</language>
 		
@@ -12,20 +12,13 @@
 		
 			<lastBuildDate>Sun, 13 Sep 2026 22:30:00 +0800</lastBuildDate>
 		
-			<atom:link href="https://Ha123CPU.github.io/boke/posts/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://Ha123CPU.github.io/boke/tags/github-pages/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>用 Hugo 和 GitHub Pages 搭建静态博客全过程</title>
 				<link>https://Ha123CPU.github.io/boke/posts/setup-hugo-github-pages-blog/</link>
 				<pubDate>Sun, 13 Sep 2026 22:30:00 +0800</pubDate>
 				<guid>https://Ha123CPU.github.io/boke/posts/setup-hugo-github-pages-blog/</guid>
 				<description>&lt;h2 id=&#34;背景&#34;&gt;背景&lt;/h2&gt;&#xA;&lt;p&gt;博客一直是技术人员记录思考的好地方。过去我可能用过 WordPress、Typecho 之类的动态博客，但维护数据库、更新 PHP 版本、防注入这些事儿其实挺麻烦的。最近决定换到静态博客方案：&lt;strong&gt;Hugo 生成静态 HTML，GitHub Pages 托管&lt;/strong&gt;，完全免费、不用服务器、部署也简单。&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>Hello Hugo</title>
-				<link>https://Ha123CPU.github.io/boke/posts/hello-hugo/</link>
-				<pubDate>Sun, 13 Sep 2026 20:38:36 +0800</pubDate>
-				<guid>https://Ha123CPU.github.io/boke/posts/hello-hugo/</guid>
-				<description></description>
 			</item>
 	</channel>
 </rss>

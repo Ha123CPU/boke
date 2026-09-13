@@ -2,25 +2,70 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://Ha123CPU.github.io/boke/categories/</loc>
+    <loc>https://Ha123CPU.github.io/boke/tags/github-pages/</loc>
+    <lastmod>2026-09-13T22:30:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://Ha123CPU.github.io/boke/tags/hugo/</loc>
+    <lastmod>2026-09-13T22:30:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://Ha123CPU.github.io/boke/posts/</loc>
+    <lastmod>2026-09-13T22:30:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://Ha123CPU.github.io/boke/tags/</loc>
+    <lastmod>2026-09-13T22:30:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://Ha123CPU.github.io/boke/tags/%E6%95%99%E7%A8%8B/</loc>
+    <lastmod>2026-09-13T22:30:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://Ha123CPU.github.io/boke/tags/%E9%9D%99%E6%80%81%E5%8D%9A%E5%AE%A2/</loc>
+    <lastmod>2026-09-13T22:30:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://Ha123CPU.github.io/boke/</loc>
+    <lastmod>2026-09-13T22:30:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://Ha123CPU.github.io/boke/posts/setup-hugo-github-pages-blog/</loc>
+    <lastmod>2026-09-13T22:30:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://Ha123CPU.github.io/boke/posts/hello-hugo/</loc>
+    <lastmod>2026-09-13T20:38:36+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://Ha123CPU.github.io/boke/categories/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
