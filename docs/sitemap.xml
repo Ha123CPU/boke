@@ -1,35 +1,26 @@
-<?xml-stylesheet type="text/xsl" href="http://localhost:1313/boke/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://Ha123CPU.github.io/boke/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://localhost:1313/boke/posts/hello-hugo/</loc>
-    <lastmod>2026-09-13T20:38:36+08:00</lastmod>
+    <loc>https://Ha123CPU.github.io/boke/categories/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/boke/posts/</loc>
-    <lastmod>2026-09-13T20:38:36+08:00</lastmod>
+    <loc>https://Ha123CPU.github.io/boke/posts/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/boke/</loc>
-    <lastmod>2026-09-13T20:38:36+08:00</lastmod>
+    <loc>https://Ha123CPU.github.io/boke/tags/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/boke/categories/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/boke/tags/</loc>
+    <loc>https://Ha123CPU.github.io/boke/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
